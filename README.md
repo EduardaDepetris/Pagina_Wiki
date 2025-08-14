@@ -17,3 +17,9 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Wikipedia](https://pt.wikipedia.org/)
 
 
+## Entrega do projeto
+
+Projeto da estrutura do site estilo Wikipédia nível iniciante. 
+Aplicação dos conhecimentos adquiridos sobre semântica e acessibilidade durante o curso de HTML de nível iniciante da DIO.
+
+
